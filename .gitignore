@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+
+# Data, weights and experiment logs: keep them out of git
+data/
+datasets/
+checkpoints/
+runs/
+wandb/
+mlruns/
+outputs/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.gguf
+*.bin
+*.onnx
+*.tflite
+*.litertlm
+*.npy
+*.npz
+*.zip
+*.tar.gz
+
+# LaTeX build files (commit the .tex and the final PDF only)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Secrets and OS clutter
+.env
+*.key
+.DS_Store
+Thumbs.db

@@ -1,0 +1,19 @@
+[project]
+name = "ai-research-program"
+version = "0.1.0"
+description = "Notes, problem sets and labs for my AI research program"
+requires-python = ">=3.11"
+dependencies = [
+  "numpy",
+  "scipy",
+  "matplotlib",
+  "jupyterlab",
+  "torch",          # CPU build is fine on a laptop
+  "cvxpy",
+  "pandas",
+  "fastapi",
+  "uvicorn",
+]
+
+[dependency-groups]
+dev = ["pytest", "ruff"]
