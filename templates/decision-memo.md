@@ -1,6 +1,6 @@
 # Studio {n}: {title}
 
-**Week:** {week_id} | **Built on:** laptop / phone (delete what does not apply)
+**Listed in:** {week_id} (a suggestion; done at my own pace) | **Done on:** (date) | **Built on:** laptop / phone (delete what does not apply)
 
 1. **Problem, users and the decision this supports:**
 2. **Constraints** (latency, budget, privacy and regulation, team skills):
@@ -17,3 +17,4 @@
 
 **Case studies read:** (links)
 **Prototype:** (link to code, plus measured tokens/s, memory, latency)
+**Review:** submit from this studio's card under Industry studios on the program page, then ask for “review studio S<semester>-{n}” in chat.
