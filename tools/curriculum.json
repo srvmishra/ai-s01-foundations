@@ -1,4 +1,4 @@
-{
+﻿{
  "program": "https://claude.ai/artifact/R24uA75qfq5tCrgoCbxBSq",
  "semesters": [
   {
@@ -149,7 +149,7 @@
      "task": "Exercise: gradient descent with Armijo backtracking on Rosenbrock (Boyd & Vandenberghe ch 9)",
      "hours": 1,
      "optional": false,
-     "url": "https://www.youtube.com/results?search_query=KIT+Optimization+Methods+for+Machine+Learning+and+Engineering",
+     "url": "https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5",
      "track": "research",
      "testable": true
     },
@@ -169,7 +169,7 @@
      "task": "Playlist block 1 of 8 (continue in order)",
      "hours": 2.5,
      "optional": false,
-     "url": "https://www.youtube.com/results?search_query=KIT+Optimization+Methods+for+Machine+Learning+and+Engineering",
+     "url": "https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5",
      "track": "research",
      "testable": true
     },
@@ -286,7 +286,7 @@
      "task": "Exercise: Newton's method with line search vs gradient descent; compare iteration counts",
      "hours": 1,
      "optional": false,
-     "url": "https://www.youtube.com/results?search_query=KIT+Optimization+Methods+for+Machine+Learning+and+Engineering",
+     "url": "https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5",
      "track": "research",
      "testable": true
     },
@@ -306,7 +306,7 @@
      "task": "Playlist block 2 of 8 (continue in order)",
      "hours": 2.5,
      "optional": false,
-     "url": "https://www.youtube.com/results?search_query=KIT+Optimization+Methods+for+Machine+Learning+and+Engineering",
+     "url": "https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5",
      "track": "research",
      "testable": true
     },
@@ -413,7 +413,7 @@
      "task": "Exercise: projected gradient and a simple penalty method on a constrained quadratic",
      "hours": 1,
      "optional": false,
-     "url": "https://www.youtube.com/results?search_query=KIT+Optimization+Methods+for+Machine+Learning+and+Engineering",
+     "url": "https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5",
      "track": "research",
      "testable": true
     },
@@ -443,7 +443,7 @@
      "task": "Playlist block 3 of 8 (continue in order)",
      "hours": 2.5,
      "optional": false,
-     "url": "https://www.youtube.com/results?search_query=KIT+Optimization+Methods+for+Machine+Learning+and+Engineering",
+     "url": "https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5",
      "track": "research",
      "testable": true
     },
@@ -590,7 +590,7 @@
      "task": "Playlist block 4 of 8 (continue in order)",
      "hours": 2.5,
      "optional": false,
-     "url": "https://www.youtube.com/results?search_query=KIT+Optimization+Methods+for+Machine+Learning+and+Engineering",
+     "url": "https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5",
      "track": "research",
      "testable": true
     },
@@ -727,7 +727,7 @@
      "task": "Playlist block 5 of 8 (continue in order)",
      "hours": 2.5,
      "optional": false,
-     "url": "https://www.youtube.com/results?search_query=KIT+Optimization+Methods+for+Machine+Learning+and+Engineering",
+     "url": "https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5",
      "track": "research",
      "testable": true
     },
@@ -874,7 +874,7 @@
      "task": "Playlist block 6 of 8 (continue in order)",
      "hours": 2.5,
      "optional": false,
-     "url": "https://www.youtube.com/results?search_query=KIT+Optimization+Methods+for+Machine+Learning+and+Engineering",
+     "url": "https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5",
      "track": "research",
      "testable": true
     },
@@ -1011,7 +1011,7 @@
      "task": "Playlist block 7 of 8 (continue in order)",
      "hours": 2.5,
      "optional": false,
-     "url": "https://www.youtube.com/results?search_query=KIT+Optimization+Methods+for+Machine+Learning+and+Engineering",
+     "url": "https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5",
      "track": "research",
      "testable": true
     },
@@ -1148,7 +1148,7 @@
      "task": "Playlist block 8 of 8 (continue in order)",
      "hours": 2.5,
      "optional": false,
-     "url": "https://www.youtube.com/results?search_query=KIT+Optimization+Methods+for+Machine+Learning+and+Engineering",
+     "url": "https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5",
      "track": "research",
      "testable": true
     },
