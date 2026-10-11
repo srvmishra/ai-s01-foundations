@@ -152,7 +152,6 @@ $\Rightarrow P(A \cup C | B) = P(A|B) + P(C|B)$
 
 ## What confused me (questions for the weekly oral)
 
-- All recitation problems (Recitations 1 and 2) are covered in the textbook problems.
-
 ## Links to code or exercises
 
+- All recitation problems (Recitations 1 and 2) are covered in the textbook problems.

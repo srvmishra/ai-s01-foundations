@@ -56,6 +56,10 @@
         - associative
         - distribute over each other
 
+6. Bonferroni's Inequality:
+
+    $$P(A_1 \cap A_2 \cap ... \cap A_n) \leq P(A_1) + P(A_2) + ... + P(A_n) - (n-1)$$
+
 ## Derivations I worked through
 
 ## What confused me (questions for the weekly oral)
@@ -74,3 +78,5 @@
     - problem 15
 
 ## Links to code or exercises
+
+- All recitation problems (recitations 1 and 2) are covered in textbook problems.
