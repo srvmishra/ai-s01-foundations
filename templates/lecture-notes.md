@@ -18,4 +18,8 @@
 
 -
 
+## Formula cheat sheet (only if you tested out of this item)
+
+> One page: the definitions, results and formulas you would need to redo the hardest problems without the source. Link your attempt, for example `../problem-sets/mml-ch2-3-testout.pdf`.
+
 ## Links to code or exercises
