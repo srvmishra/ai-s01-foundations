@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """Scaffold a week folder from the curriculum.
 
 Usage:
@@ -18,6 +18,7 @@ Each week folder gets:
     reflection.md    filled in before you submit
 Existing files are never overwritten.
 """
+from __future__ import annotations
 import json
 import re
 import sys
@@ -100,7 +101,8 @@ def main() -> None:
     ]
     for it in required:
         link = f" ([link]({it['url']}))" if it["url"] else ""
-        lines.append(f"- [ ] **{it['type']}** · {it['course']}: {it['task']} · {it['hours']} h{link}")
+        hrs = "not counted" if it.get("counted") is False else f"{it['hours']} h"
+        lines.append(f"- [ ] **{it['type']}** · {it['course']}: {it['task']} · {hrs}{link}")
     if optional:
         lines += ["", "### Optional (not counted)", ""]
         for it in optional:
